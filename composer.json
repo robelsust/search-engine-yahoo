@@ -1,10 +1,10 @@
 {
 
-  "name": "serps/search-engine-yahoo",
-  "description": "Google Rules and client for SERPS",
+  "name": "robelsust/search-engine-yahoo",
+  "description": "Yahoo Rules and client for SERPS",
   "type": "library",
-  "keywords": ["SERPS", "Google"],
-  "homepage": "https://github.com/serp-spider/search-engine-google",
+  "keywords": ["SERPS", "Yahoo"],
+  "homepage": "https://github.com/robelsust/search-engine-yahoo",
   "license": "Fair",
 
   "minimum-stability": "dev",
@@ -58,7 +58,7 @@
 
   "extra": {
     "branch-alias": {
-      "dev-master": "0.2.1-dev"
+      "dev-master": "0.0.1-dev"
     }
   }
 }
